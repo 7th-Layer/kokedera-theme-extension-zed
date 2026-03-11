@@ -40,31 +40,6 @@ When you code with Kokedera, you sit in that garden:
 6. Open command palette again and search for **"theme selector: toggle"**
 7. Select **Kokedera**
 
-### Manual Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/7th-Layer/kokedera-theme-extension-zed.git
-   ```
-
-2. Locate your Zed extensions directory:
-   - **macOS**: `~/.local/share/zed/extensions/installed/`
-   - **Linux**: `~/.local/share/zed/extensions/installed/`
-
-3. Copy or symlink the theme folder:
-   ```bash
-   ln -s /path/to/kokedera-theme ~/.local/share/zed/extensions/installed/kokedera-theme
-   ```
-
-4. Restart Zed and select the theme from the theme selector.
-
-### As a Dev Extension
-
-1. Open Zed
-2. Open command palette → **"zed: install dev extension"**
-3. Select the `kokedera-theme-extension-zed` folder
-4. The theme will be available immediately
-
 ## Palette
 
 | Role | Color | Hex |
