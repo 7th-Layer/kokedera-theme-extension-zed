@@ -28,23 +28,6 @@ When you code with Kokedera, you sit in that garden:
 - **Errors** appear as a distant torii gate — present, but not alarming
 - Your **cursor** is a firefly, drifting through the garden at nightfall
 
-## Preview
-
-```
-┌──────────────────────────────────────┐
-│  ░░░ Deep forest dark ░░░           │
-│                                      │
-│  fn  garden()  {                     │
-│      let moss = "ancient";           │
-│      let stones = 108;               │
-│      // 静寂 — silence               │
-│      temple.illuminate(moss);        │
-│  }                                   │
-│                                      │
-│  ▓ cursor blinks like a firefly     │
-└──────────────────────────────────────┘
-```
-
 ## Installation
 
 ### From Zed Extensions (recommended)
@@ -121,3 +104,7 @@ the endless, patient green of moss.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+[kokedera.style](https://kokedera.style)
