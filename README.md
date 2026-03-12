@@ -28,6 +28,8 @@ When you code with Kokedera, you sit in that garden:
 - **Errors** appear as a distant torii gate — present, but not alarming
 - Your **cursor** is a firefly, drifting through the garden at nightfall
 
+![Kokedera Theme Preview](example.png)
+
 ## Installation
 
 ### From Zed Extensions (recommended)
