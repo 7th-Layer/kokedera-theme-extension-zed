@@ -72,7 +72,7 @@
 
         "pane.focused_border": "#4ca64c80",
 
-        "scrollbar_thumb.background": "#4a5a4440",
+        "scrollbar.thumb.background": "#4a5a4440",
         "scrollbar.thumb.border": "#00000000",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#2e3d2a40",
