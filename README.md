@@ -42,10 +42,7 @@
 
 ## Pair with the icon pack
 
-For the full experience, install both:
-
-- **Kokedera Theme** — this color theme
-- **[Kokedera Icons](https://github.com/7th-Layer/kokedera-icons-extension-zed)** — matching file icons
+- **[Kokedera Icons](https://github.com/7th-Layer/kokedera-icons-extension-zed)** — matching file & folder icons
 
 ## Also available for
 
