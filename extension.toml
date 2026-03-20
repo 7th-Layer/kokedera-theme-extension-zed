@@ -1,6 +1,6 @@
 id = "kokedera-theme"
 name = "Kokedera — Japanese Moss Temple Theme"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["7th Layer"]
 description = "A meditative dark theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Deep forest greens, weathered stone, and soft lantern light."

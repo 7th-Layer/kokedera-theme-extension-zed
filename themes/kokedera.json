@@ -234,7 +234,7 @@
             "font_weight": 700
           },
           "comment": {
-            "color": "#5a6b50",
+            "color": "#4a5a44",
             "font_style": "italic"
           },
           "comment.doc": {
@@ -322,11 +322,11 @@
             "color": "#d4c88e"
           },
           "string.escape": {
-            "color": "#c49a5c",
+            "color": "#9a7abf",
             "font_weight": 700
           },
           "string.regex": {
-            "color": "#bfa243"
+            "color": "#9a7abf"
           },
           "string.special": {
             "color": "#d4c88e",
